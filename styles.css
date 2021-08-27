@@ -17,11 +17,7 @@ iframe{
     text-align: center;
   }
   
-  @media (min-width: 900px) { 
-    main {
-      background-color: rgb(255, 0, 0);
-    }
-  }  
+ 
   #navbar{
   font-size: 16px;
   width: 200px;
