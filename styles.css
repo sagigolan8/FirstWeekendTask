@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+iframe{
+    float: right;
+    padding-right: 20px;
+}
+
+:not(#navbar){
+    font-family: 'Sriracha', sans-serif;
+    text-align:center;
+    font-size:18px;
+    color:rgb(163, 156, 156);
+    background:black;
+
+  }
+.nav-header{
+    text-align: center;
+  }
+  
+  @media (min-width: 900px) { 
+    main {
+      background-color: rgb(255, 0, 0);
+    }
+  }  
+  #navbar{
+  font-size: 16px;
+  width: 200px;
+    line-height: 35px;
+    margin: 0;
+    border: 4px dashed rgb(107, 12, 12);
+}
+
+.section-topic{
+text-decoration: underline;
+font-size: 20px;
+}
+
+#navbar li:hover {    /*כאשר נעבור עם העכבר יהפוך לכחול*/
+    background:rgb(18, 15, 20);
+  }
+
+
+.nav-link {
+    background-color:  rgb(7, 2, 2) !important;
+    margin:10px;
+    display: flex;
+    text-decoration:column ;
+  }
+
+.top{
+      border-top: 4px dashed rgb(107, 12, 12);
+  }
+
+.bottom{
+    border-bottom: 4px dashed rgb(107, 12, 12);
+}
+
+#wiki:hover{
+font-size: 200%;
+}
+
+.first-ul{
+    list-style: none;
+    padding-right: 40px;
+    
+}
+
+
