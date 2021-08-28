@@ -53,9 +53,4 @@ User Story #15: My Technical Documentation page should use at least one media qu
 
 
 
-             <li>Toilets save lives! Without toilets, deadly diseases spread rapidly. Over 750 children under five die every day from diarrhoea caused by unsafe water, sanitation, and poor hygiene.</li>
-                <li>Would you show up if there were no toilets at your school? Globally, 1 in 3 schools do not have adequate toilets, and 23% of schools have no toilets at all.</li>
-                <li>Schools without toilets can cause girls to miss out on their education. Without proper sanitation facilities, many are forced to miss school when they’re on their period.</li>
-                <li>Toilets are a great investment. Every dollar spent on sanitation has a return of US$5.50, according to WHO research.</li>
-                <li>But still, 892 million people worldwide practise open defecation, meaning they go outside – on the side of the road, in bushes or rubbish heaps.</li>
-            </ul>
+            
